@@ -1,0 +1,83 @@
+ContextMenu_EN = {
+
+  ContextMenu_AsianStyle = "Asian Style Builds",
+  ContextMenu_Builds_Menu = "Build",
+  ContextMenu_Wall_Menu = "Walls",
+  ContextMenu_Door = "Doors",
+  ContextMenu_Floor = "Floor",
+  ContextMenu_Podium_Menu = "Platform",
+  ContextMenu_Furniture = "Furniture",
+  ContextMenu_SmallTable_Menu = "Small Tables",
+  ContextMenu_LargeTable_Menu = "Large Table",
+  ContextMenu_Bed = "Beds",
+  ContextMenu_Pillars_Menu = "Pillar",
+  ContextMenu_Wooden_Pillar = "Wooden Pillar",
+
+  ContextMenu_Asian_Window_Wall = "Window Walls",
+  ContextMenu_Asian_Wall_Framed = "Interior Wall (2 frames)",
+  ContextMenu_Asian_Wall_NoFrames = "Interior Wall (no frames)",
+  ContextMenu_Asian_Wall_LEFTFrames = "Interior Wall (left frames)",
+  ContextMenu_Asian_Wall_RightFrames = "Interior Wall (right frames)",
+  ContextMenu_Asian_Wall_Framed_WindowFrame = "Int. Wall Window Frame (2 frames)",
+  ContextMenu_Asian_Wall_NoFrames_WindowFrame = "Int. Wall Window Frame (no frames)",
+  ContextMenu_Asian_Doorframe = "Int. Wall Doorframe",
+  ContextMenu_Asian_Wall_Half_LeftFrames = "Int. Wall Decorative Window (Left)",
+  ContextMenu_Asian_Wall_Half_RightFrames = "Int. Wall Decorative Window (Right)"
+
+  ContextMenu_Asian_Wall_Exterior_Framed = "Exterior Wall (2 frames)",
+  ContextMenu_Asian_Wall_Exterior_NoFrames = "Exterior Wall (no frames)",
+  ContextMenu_Asian_Wall_Exterior_LEFTFrames = "Exterior Wall (left frame)"
+  ContextMenu_Asian_Wall_Exterior_RightFrames = "Exterior Wall (right frame)"
+  ContextMenu_Asian_Wall_Exterior_Framed_WindowFrame = "Ext. Wall Window Frame (2 frames)",
+  ContextMenu_Asian_Wall_Exterior_NoFrames_WindowFrame = "Ext. Wall Window Frame (no frames)",
+  ContextMenu_Asian_Wall_Exterior_LEFTFrames_WindowFrame = "Ext. Wall Window Frame (left frame)",
+  ContextMenu_Asian_Wall_Exterior_RightFrames_WindowFrame = "Ext. Wall Window Frame (right frame)",
+  ContextMenu_Asian_Exterior_Doorframe = "Ext. Wall Doorframe",
+
+  ContextMenu_Asian_Wall_ext_noFrames = "Exterior Wall (2) (no frames)",
+  ContextMenu_Asian_Wall_ext_RightFrames = "Exterior Wall (2) (right frame)",
+  ContextMenu_Asian_Wall_ext_LeftFrames = "Exterior Wall (2) (left frame)",
+  ContextMenu_Asian_Wall_ext_noFrames_WindowFrame = "Ext. Wall (2)  Window Frame (no frames)", 
+  ContextMenu_Asian_Wall_ext_Frames_WindowFrame = "Ext. Wall (2) Window Frame (2 frames)",
+  
+  ContextMenu_Traditional_Window_Wall = "Traditional Window Wall",
+  ContextMenu_Interior_NoFrames_Left = "Interior Window Wall Left (no frames)",
+  ContextMenu_Interior_NoFrames_Right= "Interior Window Wall Right (no frames)",
+  ContextMenu_Interior_Framed_Left = "Interior Window Wall Left (with frames)",
+  ContextMenu_Interior_Framed_Right = "Interior Window Wall Right (with frames)"
+  ContextMenu_Exterior_NoFrames_Left = "Exterior Window Wall Left (no frames)",
+  ContextMenu_Exterior_NoFrames_Right = "Exterior Window Wall Right (no frames)",
+  ContextMenu_Exterior_Framed_Left = "Exterior Window Wall Left (with frames)",
+  ContextMenu_Exterior_Framed_Right = "Exterior Window Wall Right (with frames)",
+  ContextMenu_Exterior2_NoFrames_Left = "Exterior2 Window Wall Left (no frames)",
+  ContextMenu_Exterior2_NoFrames_Right = "Exterior2 Window Wall Right (no frames)",
+  ContextMenu_Exterior2_Framed_Left = "Exterior2 Window Wall Left (with frames)",
+  ContextMenu_Exterior2_Framed_Right = "Exterior2 Window Wall Right (with frames)",
+
+  ContextMenu_Sliding_Doors = "Sliding Doors",
+  ContextMenu_Wooden_Sliding_Door = "Interior Sliding Door",
+  ContextMenu_Wooden_Bath_Door = "Narrow door",
+  ContextMenu_Wooden_Sliding__Exterior_Door = "Exterior Sliding Door",
+  ContextMenu_Wooden_Transperent_Sliding_Door = "Decorative Sliding Door",
+
+  ContextMenu_Tatami = "Tatami floor",
+  ContextMenu_Tatami1 = "Central part",
+  ContextMenu_Tatami2 = "Central part",
+  ContextMenu_Tatami3 = "Corner part",
+  ContextMenu_Tatami4 = "Corner part",
+  ContextMenu_Tatami5 = "Corner part",
+  ContextMenu_Tatami6 = "Corner part",
+  ContextMenu_Tatami7 = "Narrow edge",
+  ContextMenu_Tatami8 = "Narrow center",
+  ContextMenu_Tatami9 = "Narrrow edge",
+
+  ContextMenu_Middle_Section = "Central part",
+  ContextMenu_Corners = "Corners",
+  ContextMenu_Ends = "Edges",	
+
+  ContextMenu_Low_Table = "Low Table",
+  ContextMenu_Kotatsu = "Kotatsu",
+  ContextMenu_Futon = "Futon",
+
+  
+}
