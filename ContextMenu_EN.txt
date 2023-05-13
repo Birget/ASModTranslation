@@ -59,6 +59,9 @@ ContextMenu_EN = {
   ContextMenu_Wooden_Bath_Door = "Narrow door",
   ContextMenu_Wooden_Sliding__Exterior_Door = "Exterior Sliding Door",
   ContextMenu_Wooden_Transperent_Sliding_Door = "Decorative Sliding Door",
+  ContextMenu_White_Sliding_Door = "Plain Sliding Door",
+  ContextMenu_K_Wooden_Sliding_Door = "Ornamental Sliding Door",
+
 
   ContextMenu_Tatami = "Tatami floor",
   ContextMenu_Tatami1 = "Central part",
